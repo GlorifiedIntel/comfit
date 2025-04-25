@@ -61,7 +61,7 @@ const Navbar = () => {
             className="flex items-center gap-2 hover:text-green-400 transition"
           >
             <Image src={assets.user_icon} alt="user icon" />
-            Account
+            Account Login
           </button>
         }
       </ul>
@@ -87,7 +87,7 @@ const Navbar = () => {
           </UserButton>
           </>
         : <button onClick={openSignIn} className="flex items-center gap-2 hover:text-green-400 transition">
-            <Image src={assets.user_icon} alt="user icon" />Account</button>}
+            <Image src={assets.user_icon} alt="user icon" />Account Login</button>}
       </div>
     </nav>
   );
