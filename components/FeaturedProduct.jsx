@@ -5,21 +5,21 @@ import Image from "next/image";
 const products = [
   {
     id: 1,
-    image: assets.girl_with_headphone_image,
-    title: "Unparalleled Sound",
-    description: "Experience crystal-clear audio with premium headphones.",
+    image: assets.eye_2_image,
+    title: "Unparalleled Sight",
+    description: "Experience crystal-clear vision with our latest eyewear.",
   },
   {
     id: 2,
-    image: assets.girl_with_earphone_image,
-    title: "Stay Connected",
-    description: "Compact and stylish earphones for every occasion.",
+    image: assets.eye_4_image,
+    title: "See the World",
+    description: "Compact and stylish eyeglass for the modern lifestyle.",
   },
   {
     id: 3,
-    image: assets.boy_with_laptop_image,
-    title: "Power in Every Pixel",
-    description: "Shop the latest laptops for work, gaming, and more.",
+    image: assets.eye_1_image,
+    title: "Great Sight",
+    description: "Shop the latest frames and lenses for perfect vision.",
   },
 ];
 
